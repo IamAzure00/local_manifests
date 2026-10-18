@@ -12,11 +12,14 @@
     <remote name="DAFTBOT1"
             fetch="https://github.com/DAFTBOT1"
             clone-depth="1" />
+    <remote name="IamAzure00"
+            fetch="https://github.com/IamAzure00"
+            clone-depth="1" />
 
     <project path="device/infinix/X678B" name="android_device_infinix_X678B" remote="DAFTBOT1" revision="16.2" />
     <project path="device/infinix/X678B-kernel" name="android_device_infinix_X678B-kernel" remote="MillenniumOSS" revision="sixteen-mck" />
     <project path="vendor/infinix/X678B" name="android_vendor_infinix_X678B" remote="akif-github" revision="sixteen-qpr2" />
-    <project path="device/infinix/X6833B" name="android_device_infinix_X6833B" remote="DAFTBOT1" revision="16.2" />
+    <project path="device/infinix/X6833B" name="android_device_infinix_X6833B" remote="IamAzure00" revision="16.2" />
     <project path="device/infinix/X6833B-kernel" name="android_device_infinix_X6833B-kernel" remote="akif-github" revision="sixteen-mck"/>
     <project path="vendor/infinix/X6833B" name="proprietary_vendor_infinix_X6833B" remote="akif-github" revision="lineage-23.2" />
     
