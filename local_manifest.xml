@@ -9,9 +9,12 @@
     <remote name="akif-github"
             fetch="https://github.com/akifakif32"
             clone-depth="1" />
-
+    <remote name="IamAzure00"
+            fetch="https://github.com/IamAzure00"
+            clone-depth="1" />
+    
     <!-- X6833B (A17) -->
-    <project path="device/infinix/X6833B" name="android_device_infinix_X6833B" remote="daftbot" revision="17.0" />
+    <project path="device/infinix/X6833B" name="android_device_infinix_X6833B" remote="IamAzure00" revision="17.0" />
     <project path="device/infinix/X6833B-kernel" name="android_device_infinix_X6833B-kernel" remote="akif-github" revision="sixteen-mck" />
     <project path="vendor/infinix/X6833B" name="proprietary_vendor_infinix_X6833B" remote="akif-github" revision="17.0" />
 
